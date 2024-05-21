@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^10.3.0",
+    "chai": "^5.1.1",
     "selenium-webdriver": "^4.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
   }
 }
